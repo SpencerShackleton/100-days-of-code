@@ -15,4 +15,4 @@
 
 **Today's Progress**: Starting with Project Euler exercises.
 
-**Link(s) to work**: [Calculator App](https://github.com/SpencerShackleton/ProjectEulerJava)
+**Link(s) to work**: [Project Euler](https://github.com/SpencerShackleton/ProjectEulerJava)
