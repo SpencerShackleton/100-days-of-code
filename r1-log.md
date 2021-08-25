@@ -9,3 +9,6 @@ More Project Euler. Problems 55-57. I hit level 2 on PE for completing 50 proble
 
 ### R1D2 - Monday, August 23
 Worked on Game Engine a little. [Java Game Engine](https://github.com/SpencerShackleton/JavaGameEngine)
+
+### R1D3 - Tuesday, August 24
+Started Discord Clone WPF App. [Discord Clone] (https://github.com/SpencerShackleton/DiscordClone)
