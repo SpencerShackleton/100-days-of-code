@@ -4,8 +4,8 @@ The log of my #100DaysOfCode challenge. Started on August 22, 2021.
 
 ## Log
 
-### R1D1 
+### R1D1 - Sunday, August 22
 More Project Euler. Problems 55-57. I hit level 2 on PE for completing 50 problems! [Project Euler](https://github.com/SpencerShackleton/ProjectEulerJava)
 
-### R1D2
+### R1D2 - Monday, August 23
 Worked on Game Engine a little. [Java Game Engine](https://github.com/SpencerShackleton/JavaGameEngine)
