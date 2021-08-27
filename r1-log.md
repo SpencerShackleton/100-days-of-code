@@ -12,3 +12,9 @@ Worked on Game Engine a little. [Java Game Engine](https://github.com/SpencerSha
 
 ### R1D3 - Tuesday, August 24
 Started Discord Clone WPF App. [Discord Clone] (https://github.com/SpencerShackleton/DiscordClone)
+
+### R1D4 - Wednesday, August 25
+Finished Discord Clone WPF App. [Discord Clone] (https://github.com/SpencerShackleton/DiscordClone)
+
+### R1D5 - Thursday, August 26
+Started WPF Modern UI Tutorial. [Modern UI] (https://github.com/SpencerShackleton/WPF-ModernUI)
