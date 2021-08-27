@@ -11,10 +11,10 @@ More Project Euler. Problems 55-57. I hit level 2 on PE for completing 50 proble
 Worked on Game Engine a little. [Java Game Engine](https://github.com/SpencerShackleton/JavaGameEngine)
 
 ### R1D3 - Tuesday, August 24
-Started Discord Clone WPF App. [Discord Clone] (https://github.com/SpencerShackleton/DiscordClone)
+Started Discord Clone WPF App. [Discord Clone](https://github.com/SpencerShackleton/DiscordClone)
 
 ### R1D4 - Wednesday, August 25
-Finished Discord Clone WPF App. [Discord Clone] (https://github.com/SpencerShackleton/DiscordClone)
+Finished Discord Clone WPF App. [Discord Clone](https://github.com/SpencerShackleton/DiscordClone)
 
 ### R1D5 - Thursday, August 26
-Started WPF Modern UI Tutorial. [Modern UI] (https://github.com/SpencerShackleton/WPF-ModernUI)
+Started WPF Modern UI Tutorial. [Modern UI](https://github.com/SpencerShackleton/WPF-ModernUI)
