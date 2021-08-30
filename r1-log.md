@@ -18,3 +18,9 @@ Finished Discord Clone WPF App. [Discord Clone](https://github.com/SpencerShackl
 
 ### R1D5 - Thursday, August 26
 Started WPF Modern UI Tutorial. [Modern UI](https://github.com/SpencerShackleton/WPF-ModernUI)
+
+### R1D6 - Saturday, August 28
+Started Avax Punk Rarity calculations. Mind numbing [AVAX Punks](https://github.com/SpencerShackleton/AVAX-Punks-Rarity)
+
+### R1D7 - Sunday, August 29
+Made Discord Bot and script to output all rarities. Lots of fun [AVAX Punks](https://github.com/SpencerShackleton/AVAX-Punks-Rarity)
