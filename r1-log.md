@@ -24,3 +24,10 @@ Started Avax Punk Rarity calculations. Mind numbing [AVAX Punks](https://github.
 
 ### R1D7 - Sunday, August 29
 Made Discord Bot and script to output all rarities. Lots of fun [AVAX Punks](https://github.com/SpencerShackleton/AVAX-Punks-Rarity)
+
+### R1D8 - Monday, August 30
+Added API for Punk Rarity [AVAX Punks](https://github.com/SpencerShackleton/AVAX-Punks-Rarity)
+
+### R1D9 - Tuesday, August 31
+Edited Punk API and discord bot, streamlined the output to show more data. Made chrome extension that edits nfttrade
+[AVAX Punks](https://github.com/SpencerShackleton/AVAX-Punks-Rarity) [Extension] (https://github.com/SpencerShackleton/AvaxPunks-Extension)
