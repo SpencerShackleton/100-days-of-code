@@ -31,3 +31,7 @@ Added API for Punk Rarity [AVAX Punks](https://github.com/SpencerShackleton/AVAX
 ### R1D9 - Tuesday, August 31
 Edited Punk API and discord bot, streamlined the output to show more data. Made chrome extension that edits nfttrade
 [AVAX Punks](https://github.com/SpencerShackleton/AVAX-Punks-Rarity) [Extension] (https://github.com/SpencerShackleton/AvaxPunks-Extension)
+
+### R1D10 - Wednesday, September 1
+What a day, Made AVAX Ape rarity bot with rankings. Did lots of analytics and started an extension 
+[Apes Rarity](https://github.com/SpencerShackleton/Apes-Rarity) [Apes Extension](https://github.com/SpencerShackleton/Apes-Extension)(Will be building out later)
