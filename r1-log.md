@@ -35,3 +35,19 @@ Edited Punk API and discord bot, streamlined the output to show more data. Made 
 ### R1D10 - Wednesday, September 1
 What a day, Made AVAX Ape rarity bot with rankings. Did lots of analytics and started an extension 
 [Apes Rarity](https://github.com/SpencerShackleton/Apes-Rarity) [Apes Extension](https://github.com/SpencerShackleton/Apes-Extension)(Will be building out later)
+
+### R1D11 - Thursday, September 2
+Extension nearly finished, more work on rarity. Never finsihed AHHHHH 
+[Apes Rarity](https://github.com/SpencerShackleton/Apes-Rarity) [Apes Extension](https://github.com/SpencerShackleton/Apes-Extension)
+
+### R1D12 - Friday, September 3
+Added api for extension. More work on the sales and listing bots
+[Apes Rarity](https://github.com/SpencerShackleton/Apes-Rarity) [Extension API](https://github.com/SpencerShackleton/AVAX-Punks-Rarity/blob/main/rarityapi.js)
+
+### R1D13 - Saturday, September 4
+Tried out listing sniper, didn't go very well. Need to do more research on inputs.
+[Apes Rarity](https://github.com/SpencerShackleton/Apes-Rarity)
+
+### R1D14 - Sunday, September 5
+Started giving out the extension to a few ppl. Listing sniper is done for now, lots of weirdness
+[Apes Rarity](https://github.com/SpencerShackleton/Apes-Rarity)
